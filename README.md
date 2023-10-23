@@ -1,1 +1,9 @@
-# autobots24426.github.io
+# Autobots
+#### Coming Soon
+- About Us
+- FTC Seasons
+- Contact Us
+- Home Intro Page
+- Outreach 
+- Resources
+- FAQS
